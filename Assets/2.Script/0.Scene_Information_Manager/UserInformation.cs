@@ -16,7 +16,10 @@ public class UserInformation : MonoBehaviour{
     private int playerCurrentEXP = 0;
     private int playerMaxEXP = 0;
     private int IsNowStage = 1;
-
+    
+    private int stage01_u = 0;
+    
+//지금보니 for문을 사용해야 했다!1
     private int stage01_u = 0;
     private int stage02_u = 0;
     private int stage03_u = 0;
